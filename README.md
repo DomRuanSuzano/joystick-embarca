@@ -61,4 +61,4 @@ joystick gera comandos de movimento (pra frente, pra trás, agachar, pular) e 4 
 Faca um esboco de como seria esse controle (vai ter uma etapa que terão que detalhar melhor isso).
 -->
 
-![alt text](design-joystick)
+![alt text](https://github.com/DomRuanSuzano/joystick-embarca/blob/main/design-joystick.jpg)
